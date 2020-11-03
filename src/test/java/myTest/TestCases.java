@@ -17,7 +17,8 @@ public class TestCases {
 		System.out.println("Australia");
 		System.out.println("USA");
 		
-		
+		System.out.println("Brazil");
+		System.out.println("SOuth AMerica");
 		
 		
 		Assert.assertEquals(true, true);//Hard assertion
