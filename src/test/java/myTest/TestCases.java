@@ -23,6 +23,9 @@ public class TestCases {
 		System.out.println("antartica");
 		System.out.println("north AMerica");
 		
+		System.out.println("New Zealand");
+		System.out.println(" Tokyo");
+		
 		
 		
 		Assert.assertEquals(true, true);//Hard assertion
