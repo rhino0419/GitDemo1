@@ -14,6 +14,9 @@ public class TestCases {
 		System.out.println("India");
 		System.out.println("sri lanka");
 		
+		System.out.println("Australia");
+		System.out.println("USA");
+		
 		
 		
 		
