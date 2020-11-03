@@ -11,6 +11,11 @@ public class TestCases {
 	@Test
 	public void test1() {
 		System.out.println("Open Browser");
+		System.out.println("India");
+		System.out.println("sri lanka");
+		
+		
+		
 		
 		Assert.assertEquals(true, true);//Hard assertion
 		
