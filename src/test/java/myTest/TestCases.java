@@ -20,6 +20,10 @@ public class TestCases {
 		System.out.println("Brazil");
 		System.out.println("SOuth AMerica");
 		
+		System.out.println("antartica");
+		System.out.println("north AMerica");
+		
+		
 		
 		Assert.assertEquals(true, true);//Hard assertion
 		
